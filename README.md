@@ -11,7 +11,7 @@
 
 ### 🧰 What I do
 
-Identity &amp; Apple device management by day, shipping apps by night. Fueled by an unreasonable amount of coffee.
+Securing Identity &amp; AI by day, shipping apps by night. Fueled by an unreasonable amount of coffee.
 
 `Apple` → `Mosyle · Apple MDM` → `Okta`
 
