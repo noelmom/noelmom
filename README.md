@@ -1,16 +1,26 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/banner.png" alt="Noelmo Melo — Engineer · Tinkerer · App builder" width="900" />
+</p>
 
-<!--
-**noelmom/noelmom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  I build software, wrangle Apple devices, and keep the wrong people out of your accounts.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚧 Currently building
+
+- **[EasyTunnel](https://noelmom.github.io/easytunnel-public/)** — an iPhone-first SSH client with local port forwarding you can actually *browse*, plus a terminal, SFTP, and a code editor. *Coming soon to the App Store.*
+- **Vox Studio** — a Mac studio for turning scripts into natural speech, rendered entirely on-device. *Coming soon.*
+
+### 🧰 What I do
+
+Identity &amp; Apple device management by day, shipping apps by night. Fueled by an unreasonable amount of coffee.
+
+`Apple` → `Mosyle · Apple MDM` → `Okta`
+
+### 👋 Say hi
+
+- 🌐 **[noelmom.github.io](https://noelmom.github.io)**
+- 💼 **[LinkedIn](https://www.linkedin.com/in/noelmo-melo)**
+- ☕ **[Buy me a coffee](https://buymeacoffee.com/noelmo)**
