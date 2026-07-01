@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Noelmo Melo — Engineer · Tinkerer · App builder" width="900" />
-</p>
-
-<p align="center">
   I build software, wrangle Apple devices, and keep the wrong people out of your accounts.
 </p>
 
