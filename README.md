@@ -7,7 +7,7 @@
 ### 🚧 Currently building
 
 - **[EasyTunnel](https://noelmom.github.io/easytunnel-public/)** — an iPhone-first SSH client with local port forwarding you can actually *browse*, plus a terminal, SFTP, and a code editor. *Coming soon to the App Store.*
-- **Vox Studio** — a Mac studio for turning scripts into natural speech, rendered entirely on-device. *Coming soon.*
+- **[Vox](https://noelmom.github.io/vox/)** — a Mac studio for turning scripts into natural speech, rendered entirely on-device. *Shipped.*
 
 ### 🧰 What I do
 
